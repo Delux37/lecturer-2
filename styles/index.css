@@ -1,0 +1,15 @@
+p {
+    font-size: 24px;
+
+    /* color: blue !important; */
+}
+
+
+
+.pColor {
+    color: rgb(255, 111, 0);
+}
+
+.divClass {
+    background-color: green;
+}
